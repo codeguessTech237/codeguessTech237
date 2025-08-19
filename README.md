@@ -21,8 +21,8 @@
 
 - 🌱 I’m also learning more about **DevOps and CI/CD pipelines**.
 
-- 📫 How to reach me: **fejio.willy@gmail.com** / 📱 +237 690 51 97 28
-
+- 📫 How to reach me: **fejio.willy@gmail.com**
+  
 - 🌍 Location: **Yaoundé, Cameroon**
 
 
